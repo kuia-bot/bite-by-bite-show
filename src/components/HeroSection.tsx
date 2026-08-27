@@ -9,7 +9,6 @@ export function HeroSection() {
         width={1920}
         height={1080}
         className="absolute inset-0 h-full w-full object-cover"
-        priority="true"
       />
       <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
       <div className="relative z-10 mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
